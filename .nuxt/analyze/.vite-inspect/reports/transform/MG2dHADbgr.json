@@ -1,0 +1,212 @@
+{
+  "resolvedId": "virtual:nuxt:C:/Users/jhlow/fyp/.nuxt/routes.mjs",
+  "transforms": [
+    {
+      "name": "virtual",
+      "result": "import { default as MapComponent1xVQt5tAVJMeta } from \"C:/Users/jhlow/fyp/pages/AR/MapComponent.vue?macro=true\";\nimport { default as indexuAoQyrR9N2Meta } from \"C:/Users/jhlow/fyp/pages/index.vue?macro=true\";\nexport default [\n  {\n    name: MapComponent1xVQt5tAVJMeta?.name ?? \"AR-MapComponent\",\n    path: MapComponent1xVQt5tAVJMeta?.path ?? \"/AR/MapComponent\",\n    meta: MapComponent1xVQt5tAVJMeta || {},\n    alias: MapComponent1xVQt5tAVJMeta?.alias || [],\n    redirect: MapComponent1xVQt5tAVJMeta?.redirect,\n    component: () => import(\"C:/Users/jhlow/fyp/pages/AR/MapComponent.vue\").then(m => m.default || m)\n  },\n  {\n    name: indexuAoQyrR9N2Meta?.name ?? \"index\",\n    path: indexuAoQyrR9N2Meta?.path ?? \"/\",\n    meta: indexuAoQyrR9N2Meta || {},\n    alias: indexuAoQyrR9N2Meta?.alias || [],\n    redirect: indexuAoQyrR9N2Meta?.redirect,\n    component: () => import(\"C:/Users/jhlow/fyp/pages/index.vue\").then(m => m.default || m)\n  }\n]",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1713168573073,
+      "end": 1713168573073,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1713168573074,
+      "end": 1713168573074,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1713168573074,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "result": "import { __vitePreload } from \"\u0000vite/preload-helper.js\";import { default as MapComponent1xVQt5tAVJMeta } from \"C:/Users/jhlow/fyp/pages/AR/MapComponent.vue?macro=true\";\nimport { default as indexuAoQyrR9N2Meta } from \"C:/Users/jhlow/fyp/pages/index.vue?macro=true\";\nexport default [\n  {\n    name: MapComponent1xVQt5tAVJMeta?.name ?? \"AR-MapComponent\",\n    path: MapComponent1xVQt5tAVJMeta?.path ?? \"/AR/MapComponent\",\n    meta: MapComponent1xVQt5tAVJMeta || {},\n    alias: MapComponent1xVQt5tAVJMeta?.alias || [],\n    redirect: MapComponent1xVQt5tAVJMeta?.redirect,\n    component: () => __vitePreload(() => import(\"C:/Users/jhlow/fyp/pages/AR/MapComponent.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  },\n  {\n    name: indexuAoQyrR9N2Meta?.name ?? \"index\",\n    path: indexuAoQyrR9N2Meta?.path ?? \"/\",\n    meta: indexuAoQyrR9N2Meta || {},\n    alias: indexuAoQyrR9N2Meta?.alias || [],\n    redirect: indexuAoQyrR9N2Meta?.redirect,\n    component: () => __vitePreload(() => import(\"C:/Users/jhlow/fyp/pages/index.vue\"),__VITE_IS_MODERN__?\"__VITE_PRELOAD__\":void 0,import.meta.url).then(m => m.default || m)\n  }\n]",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "normal",
+      "sourcemaps": null
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1713168573076,
+      "end": 1713168573076,
+      "order": "normal"
+    }
+  ]
+}

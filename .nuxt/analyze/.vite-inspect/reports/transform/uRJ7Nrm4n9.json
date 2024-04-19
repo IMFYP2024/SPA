@@ -1,0 +1,17 @@
+{
+  "resolvedId": "C:/Users/jhlow/fyp/node_modules/nuxt/dist/app/types.js",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1713168573907,
+      "end": 1713168573907
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1713168573907,
+      "end": 1713168573907,
+      "order": "normal"
+    }
+  ]
+}
